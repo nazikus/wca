@@ -1,0 +1,14 @@
+# INVALID VALUES
+
+#key0 = value0
+#key1=value1
+key2 = value2 = 
+key3 = value3 = value3.1
+key4 value4
+
+# VALID VALUES
+
+key5=value5
+key6 = value6
+      key7      =               value7         
+
